@@ -1,0 +1,8 @@
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\bin\Debug\netstandard2.0\NominetTrial.Tests.deps.json
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\bin\Debug\netstandard2.0\NominetTrial.Tests.dll
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\bin\Debug\netstandard2.0\NominetTrial.Tests.pdb
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\obj\Debug\netstandard2.0\NominetTrial.Tests.AssemblyInfoInputs.cache
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\obj\Debug\netstandard2.0\NominetTrial.Tests.AssemblyInfo.cs
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\obj\Debug\netstandard2.0\NominetTrial.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\obj\Debug\netstandard2.0\NominetTrial.Tests.dll
+C:\Users\nikki\source\repos\NominetTrial\NominetTrial\obj\Debug\netstandard2.0\NominetTrial.Tests.pdb

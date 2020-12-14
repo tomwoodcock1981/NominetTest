@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aAVsfqjwO2A6YaA8l1S0rSMF2sy7vPD6y/0cyXHNJCEx/s9/QJI0KrIPZb6cyGtrUUfx79RoyUK6nCHkLCh4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikki\\source\\repos\\NominetTrial\\NominetTrial\\NominetTrial.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikki\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nikki\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nikki\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
